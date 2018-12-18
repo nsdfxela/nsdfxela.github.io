@@ -1,8 +1,42 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml">
 <head>
-<h1>Hello, FB!</h1>
+    <script type="text/javascript" src="http://connect.facebook.net/en_US/all.js"></script>
+	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
 <meta property="og:type" content="threed.asset" /> 
 <meta property="og:asset" content="/3dassets/CesiumMilkTruck.glb" />
 <meta property="og:title" content="3D Milk truck" />
 </head>
 <body>
+
+<div class="page-header">
+  <h1>Share Dialog</h1>
+</div>
+
+<p>Share with FB</p>
+
+<!-- <div  class="btn btn-success clearfix">Share</div> -->
+<button id="shareBtn" type="button">Click Me!</button>
+
+<script>
+
+FB.init({
+  appId      : '286573788871937',
+  status     : true,
+  xfbml      : true,
+  version    : 'v2.7' // or v2.6, v2.5, v2.4, v2.3
+});
+
+document.getElementById('shareBtn').onclick = function() {
+  FB.ui({
+  method: 'share_open_graph',
+  action_type: 'og.likes',
+  action_properties: JSON.stringify({
+    object:'https://developers.facebook.com/docs/',
+  })
+}, function(response){});
+}
+</script>
+
+</script>
 </body>

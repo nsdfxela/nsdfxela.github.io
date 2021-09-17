@@ -21,10 +21,23 @@ You can also drag and drop the photo to the form:
 
 ![](assets/img/a_5.png)
 
-After that avatar generation automatically starts.
+The second way is to scan the QR code with your smartphone and open the decoded link.
+
+![](assets/img/a_2.png)
+
+When you open the link in your mobile browser, you can choose if you want to use an existing image, or create a new selfie
+
+![](assets/img/a_8.jpg)
+
+After that the image chosen got downloaded to your PC.
+
+![](assets/img/a_9.png)
+
+When the image is finally selected avatar generation automatically starts on your PC.
 
 ![](assets/img/a_6.png)
 
 When the avatar is ready its preview will be presented on the screen:
 
 ![](assets/img/a_7.png)
+

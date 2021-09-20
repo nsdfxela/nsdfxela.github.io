@@ -18,12 +18,12 @@ On Windows Remote Face works with Zoom, Microsoft Teams, Skype and Google Meet. 
 
 ### [](#header-3)3. Does Remote Face send my images somewhere?
 
-No, avatars are generated locally on your computer without sending your images outside.
+No, avatars are generated locally on your computer without sending your images outside. It only will be sent if you choose QR code as a way to transfer the selfie from your smartphone to computer where Remote Face is installed.
 
 ### [](#header-3)4. What are the system requirements for Remote Face?
 
 PC:
-*   Windows 7 and higher
+*   Windows 7 and higher	
 *   CPU with AVX support
 *   GPU and driver with support for OpenGL 3.3 or higher
 

@@ -2,7 +2,7 @@
 layout: default
 title: Setting up animation
 nav_order: 3
-parent: Generating avatar
+parent: Working with Remote Face
 ---
 
 ## [](#header-2)Avatar animations
@@ -11,7 +11,7 @@ Remote Face can enrich your video conferencing experience by making your avatar 
 
 ### [](#header-3)Windows
 
-When your avatar is generated you will be rederected to the page that looks like this:
+When your avatar is generated you will be redirected to the page that looks like this:
 
 ![](assets/img/anim_1.png)
 

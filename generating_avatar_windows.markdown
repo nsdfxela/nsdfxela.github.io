@@ -2,7 +2,7 @@
 layout: default
 title: Generating avatar on Windows
 nav_order: 1
-parent: Generating avatar
+parent: Working with Remote Face
 ---
 
 ### [](#header-3)Windows

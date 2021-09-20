@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Generating avatar
+title: Working with Remote Face
 nav_order: 3
 has_children: true
 ---
 
-# [](#header-1)Generating avatar
+# [](#header-1)Working with Remote Face
 It pays off to create a good avatar for video conferencing. When start the Remote Face for the first time, you will see the short video that explains how to generate an avatar. You may find detailed description of avatar generation process in the corresponding sections:
 
 [Windows](generating_avatar_windows){: .btn .btn-purple }

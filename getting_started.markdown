@@ -8,13 +8,13 @@ nav_order: 2
 
 ## [](#header-2)Installation
 
-To download the latest version of the Remote Face please visit the official site https://remoteface.ai/ and follow to the "Download plugin section". Choose the appropriate version and follow the install instructions.
+To download the latest version of the Remote Face please visit the official [site](https://remoteface.ai/) and follow to the "Download plugin section". Choose the appropriate version and follow the install instructions.
 
 ![](assets/img/gs_download.png)
 
 ## [](#header-2)Setting the Remote Face up
 
-After the first start Remote Face will ask you to sign in with your account. Please go to the "sign up" page of the https://remoteface.ai/ and follow the instructions to create one. As soon as your account is ready and you signed in, Remote Face will guide you through the avatar creation process. Please pay attention to the recommendations as they can help you to create better avatars and look good on your conferences.
+After the first start Remote Face will ask you to sign in with your account. Please go to the "sign up" page of the [site](https://remoteface.ai/) and follow the instructions to create one. As soon as your account is ready and you signed in, Remote Face will guide you through the avatar creation process. Please pay attention to the recommendations as they can help you to create better avatars and look good on your conferences.
 Once you are done with avatar generation, you may test your virtual camera in different conferencing apps.
 
 ### [](#header-3)Zoom

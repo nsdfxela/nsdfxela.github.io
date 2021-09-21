@@ -11,7 +11,7 @@ It pays off to create a good avatar for video conferencing. When start the Remot
 [Windows](generating_avatar_windows){: .btn .btn-purple }
 [Mac OS](generating_avatar_mac){: .btn .btn-blue }
 
-At the same time recomendations for your selfie are the same for all platforms:
+At the same time recommendations for your selfie are the same for all platforms:
 
 *   The face should be easily recognizable in the photo. The photo should not be blurry.
 *   Uniform good lighting, without dark shadows or too bright glare

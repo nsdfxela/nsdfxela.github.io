@@ -14,7 +14,7 @@ It pays off to create a good avatar for video conferencing. When start the Remot
 At the same time recommendations for your selfie are the same for all platforms:
 
 *   The face should be easily recognizable in the photo. The photo should not be blurry.
-*   Uniform good lighting, without dark shadows or too bright glare
+*   There should be uniform good lighting, without dark shadows or too bright glare
 *   Keep a neutral facial expression or slight.
 *   It's best to look straight into the camera without turning your neck or eyes.
 *   We advise removing the glasses but this is not completely necessary.

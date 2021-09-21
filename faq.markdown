@@ -10,7 +10,7 @@ nav_order: 4
 
 ![](assets/img/faq_1.png)
 
-It is safe to run the installer downloaded from Remote Face’s official website: https://remoteface.ai/ . You may additionally check if the installer is signed with the correct itSeez3D certificate by clicking the “Show more details” -> “Show information about the publisher’s certificate”.
+It is safe to run the installer downloaded from Remote Face’s official [website](https://remoteface.ai/) . You may additionally check if the installer is signed with the correct itSeez3D certificate by clicking the “Show more details” -> “Show information about the publisher’s certificate”.
 
 ### [](#header-3)2. What conferencing applications do you support?
 

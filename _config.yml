@@ -35,8 +35,8 @@ plugins:
   - jekyll-feed
 #remote_theme: rundocs/jekyll-rtd-theme@bb0b83f69bd5144ea38a39f005c4cac3b4242cc5
 logo: assets/img/logo.png
-#theme: just-the-docs
-remote_theme: pmarsceill/just-the-docs
+theme: just-the-docs
+#remote_theme: pmarsceill/just-the-docs
 
 
 

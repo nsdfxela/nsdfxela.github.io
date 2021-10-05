@@ -22,3 +22,13 @@ Click on the "Configure animation" button and select the devices in left and rig
 Once you've got these things set up, you can try animating your avatar by clicking the "Test Animation" button.
 
 ### [](#header-3)Mac
+
+When your avatar is generated you will be redirected to the page that looks like this:
+
+![](assets/img/mac/anim_1.png)
+
+Click on the "Camera" or "Microphone" menu item and select preferrable devices. Camera menu list contains all of available cameras and Microphone one contains microphones. Choose "None" option if you don't want to use face capture or lip sync.
+
+![](assets/img/mac/anim_2.png)
+
+Your avatar will automatically respond to new settings.

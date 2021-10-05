@@ -17,3 +17,11 @@ Sometimes uninstallation cannot be performed due to running programs that use th
 ![](assets/img/un_win_2.png)
 
 ## [](#header-2)Mac
+
+The easiest way is to run this command in the Terminal:
+
+![](assets/img/mac/un_mac_1.png)
+
+sh /Applications/RemoteFace/uninstall.sh  
+
+If you already removed this folder, you can try to install it one more time and then uninstall it. It uses some special commands to unregister a virtual camera in your system.

@@ -37,13 +37,19 @@ Mac:
 
 ### [](#header-3)5. Why does my avatar move his lips when other people speak?
 
-Remote Face uses Lip Sync technology for lips animation: it consumes the microphone input of your computer to synchronize the avatar's mouth with your speech. If you use audio speakers in a conference, the microphone picks up the voices of other meeting participants even if you are silent at the moment. There are two ways to avoid the problem mentioned above: 1. Use headphones so that the microphone doesn’t pick up the other people's voices 2. Temporary disable the lip sync by clicking on the microphone icon in settings menu. On Windows it is accessible from tray:
+Remote Face uses Lip Sync technology for lips animation: it consumes the microphone input of your computer to synchronize the avatar's mouth with your speech. If you use audio speakers in a conference, the microphone picks up the voices of other meeting participants even if you are silent at the moment. There are two ways to avoid the problem mentioned above: 1. Use headphones so that the microphone doesn’t pick up the other people's voices 2. Temporary disable the lip sync by clicking on the microphone icon in settings menu. 
+
+On Windows it is accessible from tray:
 
 ![](assets/img/faq_2.png)
 
 ![](assets/img/faq_3.png)
 
-On Mac ...
+On Mac it is accessible from Status Bar:
+
+![](assets/img/mac/faq_2.png)
+
+![](assets/img/mac/faq_3.png)
 
 ### [](#header-3)6. Do I have to have a webcam to use Remote Face?
 

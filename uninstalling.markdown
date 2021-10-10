@@ -8,7 +8,7 @@ nav_order: 4
 
 ## [](#header-2)Windows
 
-To uninstall the Remote Face from your computer use "Apps & Features" ("Programs & Features" in Windows 7) menu and find the Remote Face in list of your applications. Click on the "Uninstall" button and follow the instructions.
+To uninstall the Remote Face from your computer use the "Apps & Features" ("Programs & Features" in Windows 7) menu and find the Remote Face in the list of your applications. Click on the "Uninstall" button and follow the instructions.
 
 ![](assets/img/un_win_1.png)
 
@@ -24,4 +24,4 @@ The easiest way is to run this command in the Terminal:
 
 sh /Applications/RemoteFace/uninstall.sh  
 
-If you already removed this folder, you can try to install it one more time and then uninstall it. It uses some special commands to unregister a virtual camera in your system.
+If you already removed this folder, you can try to install the Remote Face one more time and then uninstall it. It uses some special commands to unregister a virtual camera in your system.

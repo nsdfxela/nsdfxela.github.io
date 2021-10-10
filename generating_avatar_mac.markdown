@@ -9,7 +9,7 @@ parent: Working with Remote Face
 
 ![](assets/img/mac/a_1.png)
 
-You have three options for choosing a photo that you want to generate an avatar from: simply upload it from disk or upload it from your smartphone with scanning the QR code.
+You have three options for choosing a photo that you want to generate an avatar from: simply upload it from disk or upload it from your smartphone by scanning the QR code or directly.
 
 ![](assets/img/mac/a_3.png)
 
@@ -29,7 +29,7 @@ When you open the link in your mobile browser, you can choose if you want to use
 
 ![](assets/img/a_8.jpg)
 
-After that the image chosen got downloaded to your Mac.
+After that, the application starts downloading for the chosen image.
 
 ![](assets/img/mac/a_9.png)
 
@@ -41,10 +41,10 @@ When the avatar is ready its preview will be presented on the screen:
 
 ![](assets/img/mac/a_7.png)
 
-The third way is available if your mobile device is an iPhone. The button "Import from iOS" will appear at the bottom. Press it and select "Take a photo".
+The third way is available if your mobile device is an iPhone. The button "Import from iOS" will appear at the bottom part of the window. Press it and select "Take a photo".
 
 ![](assets/img/mac/a_import_iphone_1.png)
 
-After that a camera application will open on your iOS device. Just take a selfie and it will instantly be uploaded on your Mac.
+After that, a camera application will open on your iOS device. Just take a selfie and it will instantly be uploaded to your Mac.
 
 ![](assets/img/mac/a_import_iphone_2.png)

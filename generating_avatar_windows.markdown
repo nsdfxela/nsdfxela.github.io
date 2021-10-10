@@ -9,7 +9,7 @@ parent: Working with Remote Face
 
 ![](assets/img/a_1.png)
 
-You have two options for choosing a photo that you want to generate an avatar from: simply upload it from disk or upload it from your smartphone with scanning the QR code.
+You have two options for choosing a photo that you want to generate an avatar from: simply upload it from disk or upload it from your smartphone by scanning the QR code.
 
 ![](assets/img/a_3.png)
 
@@ -25,11 +25,11 @@ The second way is to scan the QR code with your smartphone and open the decoded 
 
 ![](assets/img/a_2.png)
 
-When you open the link in your mobile browser, you can choose if you want to use an existing image, or create a new selfie
+When you open the link in your mobile browser, you can choose if you want to use an existing image, or create a new selfie.
 
 ![](assets/img/a_8.jpg)
 
-After that the image chosen got downloaded to your PC.
+After that, the application starts downloading for the chosen image.
 
 ![](assets/img/a_9.png)
 

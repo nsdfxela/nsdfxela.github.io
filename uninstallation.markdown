@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Uninstalling
-nav_order: 4
+title: Uninstallation
+nav_order: 6
 ---
 
-# [](#header-1)Uninstalling
+# [](#header-1)Uninstallation
 
 ## [](#header-2)Windows
 

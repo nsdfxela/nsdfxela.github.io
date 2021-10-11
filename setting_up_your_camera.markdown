@@ -1,21 +1,11 @@
 ---
 layout: default
-title: Getting started
-nav_order: 2
+title: Setting up your camera
+nav_order: 5
 ---
 
-# [](#header-1)Getting started
+# [](#header-1)Setting up your camera
 
-## [](#header-2)Installation
-
-To download the latest version of the Remote Face please visit the official [site](https://remoteface.ai/) and scroll to the "Download plugin section". Choose the appropriate version and follow the install instructions.
-
-![](assets/img/gs_download.png)
-
-## [](#header-2)Camera setup
-
-After the first start, Remote Face will ask you to sign in with your account. Please go to the "sign up" page of the [site](https://remoteface.ai/) and follow the instructions to create one. As soon as your account is ready and you are signed in, Remote Face will guide you through the avatar creation process. Please pay attention to the recommendations as they can help you to create better avatars and look good at your conferences.
-Once you are done with avatar generation, you may test your virtual camera in different conferencing apps.
 
 ### [](#header-3)Zoom
 

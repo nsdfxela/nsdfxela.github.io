@@ -12,6 +12,6 @@ We want to help our users to maximize the efficiency of remote work  by eliminat
 
 *   maintain eye contact
 *   always look good
-*   choose one of awesome backgrounds (or add your own)
+*   choose one of the awesome backgrounds (or add your own)
 
 Remote Face generates your 3D avatar from a single selfie without sending any images outside your computer.

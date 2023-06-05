@@ -1,16 +1,16 @@
 ---
-title: Metaperson Editor integration
+title: MetaPerson Editor integration
 layout: home
 nav_order: 3
 ---
 
-# [](#header-1)Metaperson Editor integration
+# [](#header-1)MetaPerson Editor integration
 
-Metaperson Editor is a revolutionary 3D avatar builder that allows you to create your own lifelike avatar using just a selfie. Because the Metaperson Editor supports iframe integration, connecting the Metaperson Editor to an Unreal Engine project can be done using a standard web browser plugin.
+MetaPerson Editor is a revolutionary 3D avatar builder that allows you to create your own lifelike avatar using just a selfie. Because the MetaPerson Editor supports iframe integration, connecting the MetaPerson Editor to an Unreal Engine project can be done using a standard web browser plugin.
 
 ![WebBrowser plugin](assets/img/webbrowser.png)
 
-We created a small class `UAvatarSDKWebBrowser` that inherits from `UWebBrowser` and handles interactions of UE projects with the Metaperson Editor. We use JavaScript code to subscribe to events and forward them to UE.
+We created a small class `UAvatarSDKWebBrowser` that inherits from `UWebBrowser` and handles interactions of UE projects with the MetaPerson Editor. We use JavaScript code to subscribe to events and forward them to UE.
 
 ```javascript
 function onWindowMessage(evt) {

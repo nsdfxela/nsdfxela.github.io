@@ -1,5 +1,5 @@
 ---
-title: Main page
+title: Frequently asked question
 layout: home
 nav_order: 5
 ---

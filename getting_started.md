@@ -27,6 +27,6 @@ The sample is based on Epic's Third Person [template](https://docs.unrealengine.
 
 ![Exporting glb](assets/img/export.png)
 
-When the export process is complete, the MetaPerson Editor will close and the download will begin. The archive with the avatar will be saved to the local disk and unzipped. After that skeletal mesh of the avatar will be loaded from glb file. Avatar will be placed in the level instead of the third person character.
+When the export process is complete, the MetaPerson Editor will close and the download will begin. The archive with the avatar will be saved to the local disk and unzipped. After that skeletal mesh of the avatar will be loaded from the glb file. Avatar will be placed in the level instead of the third person character.
 
 See more information about [animation retargeting](animation_retargeting) and  [MetaPerson editor integration](metaperson_editor_integration).

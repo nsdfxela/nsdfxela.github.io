@@ -20,5 +20,5 @@ The animation retargeting process is described in the [corresponding chapter](an
 
 ## Support
 
-Any questions about the UE integration or the avatar generation, general feedback, ideas, feature requests: support@avatarsdk.com
-For commercial inquiries or licensing questions use business_support@itseez3d.com or support@avatarsdk.com
+Any questions about the UE integration or the avatar generation, general feedback, ideas, feature requests: <support@avatarsdk.com>
+For commercial inquiries or licensing questions use <business_support@itseez3d.com> or <support@avatarsdk.com>

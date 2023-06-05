@@ -40,23 +40,23 @@ Having Retargeter Asset, one can simply retarget existing animations or animatio
 
 ![Animation BP](assets/img/retargeting06.png)
 
-Right click on the asset opens context menu where you can find the "Duplucate and Retarget Animation Blueprint" command.
+Right click on the asset opens context menu where you can find the "Duplicate and Retarget Animation Blueprint" command.
 
 ![Retarget menu](assets/img/retargeting07.png)
 
-In "Duplucate and Retarget Animation Blueprint" window you need to set the IK Retageter parameter:
+In "Duplicate and Retarget Animation Blueprint" window you need to set the IK Retageter parameter:
 
-![Duplucate and Retarget Animation Blueprint](assets/img/retargeting08.png)
+![Duplicate and Retarget Animation Blueprint](assets/img/retargeting08.png)
 
 You also may find useful to set the naming parameters and destination folder:
 
-![Duplucate and Retarget Animation Blueprint](assets/img/retargeting09.png)
+![Duplicate and Retarget Animation Blueprint](assets/img/retargeting09.png)
 
 Press the "Retarget" button and explore the results:
 
 ![Animation Retarget Result](assets/img/retargeting10.png)
 
-One more thing is required to achieve the best result: open the resulting blueprint and remove "control rig" element from animation graph.
+One more thing is required to achieve the best result: open the resulting blueprint and remove the "control rig" element from the animation graph.
 
 ![Control Rig](assets/img/retargeting13.png)
 
@@ -66,6 +66,6 @@ Now you can save the results and use the retargeted blueprint as an animation cl
 
 ![Animation Class](assets/img/retargeting12.png)
 
-Your animations were successuflly retargeted:
+Your animations were successfully retargeted:
 
 ![Result](assets/img/retargeting14.png)

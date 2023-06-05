@@ -6,7 +6,7 @@ nav_order: 3
 
 # [](#header-1)Metaperson Editor integration
 
-Metaperson Editor is a the revolutionary 3D avatar builder that allows you to create your own lifelike avatar using just a selfie. Because the Metaperson Editor supports iframe integration, connecting the Metaperson Editor to an Unreal Engine project can be done using a standard web browser plugin.
+Metaperson Editor is a revolutionary 3D avatar builder that allows you to create your own lifelike avatar using just a selfie. Because the Metaperson Editor supports iframe integration, connecting the Metaperson Editor to an Unreal Engine project can be done using a standard web browser plugin.
 
 ![WebBrowser plugin](assets/img/webbrowser.png)
 
@@ -52,11 +52,11 @@ We use the `UAvatarSDKBrowserCallbackProxy` class to handle the events from Java
 See the [documentation](https://docs.metaperson.avatarsdk.com/web_integration.html) for website integration.
 In the demo project, you can see how it works by looking at the */Game/ThirdPerson/Blueprints/BP_HUD* blueprint.
 
-At first we obviously need to create the widget and add it to viewport.
+At first we obviously need to create the widget and add it to the viewport.
 
 ![Create widget](assets/img/createwidget.png)
 
-We need to subscribe to 2 events that are raised by `UAvatarSDKWebBrowser`. The first one is `OnBrowserError` that gets raised if something gets wrong, for example if you forget to [provide your Client ID and Client Secret](getting_started). The second one is `OnAvatarExported` and it is raised when you've finished editing your avatar and it is ready to be downloaded from cloud. At this point you can alse set the `ReadParametersFromSettings` parameter to false, if you'd like to provide Client ID and Client Secret in the blueprint instead of taking it from the plugin settings.
+We need to subscribe to 2 events that are raised by `UAvatarSDKWebBrowser`. The first one is `OnBrowserError` that gets raised if something gets wrong, for example if you forget to [provide your Client ID and Client Secret](getting_started). The second one is `OnAvatarExported` and it is raised when you've finished editing your avatar and it is ready to be downloaded from the cloud. At this point you can also set the `ReadParametersFromSettings` parameter to false, if you'd like to provide Client ID and Client Secret in the blueprint instead of taking it from the plugin settings.
 
 ![Events of browser](assets/img/browserevents.png)
 

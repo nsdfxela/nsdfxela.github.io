@@ -47,6 +47,8 @@ function onUnityLoaded(evt, data) {
 window.addEventListener('message', onWindowMessage);
 ```
 
+We use the `UAvatarSDKBrowserCallbackProxy` class to handle the events from JavaScript and forward them to the `UAvatarSDKWebBrowser` class.
+
 See the [documentation](https://docs.metaperson.avatarsdk.com/web_integration.html) for website integration.
 In the demo project, you can see how it works by looking at the */Game/ThirdPerson/Blueprints/BP_HUD* blueprint.
 
@@ -54,7 +56,7 @@ At first we obviously need to create the widget and add it to viewport.
 
 ![Create widget](assets/img/createwidget.png)
 
-We need to subscribe to 2 events that are raised by `UAvatarSDKWebBrowser`. The first one is `OnBrowserError` that gets raised if something gets wrong, for example if you forget to [provide your Client ID and Client Secret](getting_started). The second one is `OnAvatarExported` and it is raised when you've finished editing your avatar and it is ready to be downloaded from cloud.
+We need to subscribe to 2 events that are raised by `UAvatarSDKWebBrowser`. The first one is `OnBrowserError` that gets raised if something gets wrong, for example if you forget to [provide your Client ID and Client Secret](getting_started). The second one is `OnAvatarExported` and it is raised when you've finished editing your avatar and it is ready to be downloaded from cloud. At this point you can alse set the `ReadParametersFromSettings` parameter to false, if you'd like to provide Client ID and Client Secret in the blueprint instead of taking it from the plugin settings.
 
 ![Events of browser](assets/img/browserevents.png)
 

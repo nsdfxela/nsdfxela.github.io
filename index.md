@@ -18,3 +18,7 @@ We also use UE5 [IK Rig Retargeting](https://docs.unrealengine.com/5.0/en-US/ik-
 
 The animation retargeting process is described in the [corresponding chapter](animation_retargeting).
 
+## Support
+
+Any questions about the UE integration or the avatar generation, general feedback, ideas, feature requests: support@avatarsdk.com
+For commercial inquiries or licensing questions use business_support@itseez3d.com or support@avatarsdk.com

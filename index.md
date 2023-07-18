@@ -8,7 +8,7 @@ nav_order: 1
 
 This project demonstrates how to create and use MetaPerson avatars with Epic animations. Please see the [Getting Started](getting_started) page if you need information on running the example.
 
-We use the new [MetaPerson Creator](https://docs.metaperson.avatarsdk.com/) integrated to level UI to create the avatar from a selfie and customize it. 
+We use the new [MetaPerson Creator](https://docs.metaperson.avatarsdk.com/) integrated into level UI to create the avatar from a selfie and customize it. 
 
 ![MetaPerson Creator](assets/img/editor01.png)
 
@@ -20,5 +20,5 @@ The animation retargeting process is described in the [corresponding chapter](an
 
 ## Support
 
-Any questions about the UE integration or the avatar generation, general feedback, ideas, feature requests: <support@avatarsdk.com>
+Any questions about the UE integration or the avatar generation, general feedback, ideas, or feature requests: <support@avatarsdk.com>
 For commercial inquiries or licensing questions use <business_support@itseez3d.com> or <support@avatarsdk.com>

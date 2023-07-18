@@ -20,13 +20,12 @@ Go to the Edit->Project Settings->Plugins->Avatar SDK Metaperson 2 section in UE
 
 ![Credentials](assets/img/credentials.png)
 
-
 ## Sample overview
 
-The sample is based on Epic's Third Person [template](https://docs.unrealengine.com/5.0/en-US/third-person-template-in-unreal-engine/) and demonstrates how to integrate Metaperson editor to your project. Playing the level opens MetaPerson editor in the HUD. After that all of the avatar creation/customization features are available to user. When the user finishes the avatar creation process, he can press the Export button. **If you’ve incorrectly added your credentials, or if your account doesn’t have a Pro plan or higher, the Export button may be inactive.**  
+The sample is based on Epic's Third Person [template](https://docs.unrealengine.com/5.0/en-US/third-person-template-in-unreal-engine/) and demonstrates how to integrate Metaperson Creator to your project. Playing the level opens MetaPerson Creator in the HUD. After that all of the avatar creation/customization features are available to user. When the user finishes the avatar creation process, he can press the Export button. **If you’ve incorrectly added your credentials, or if your account doesn’t have a Pro plan or higher, the Export button may be inactive.**  
 
 ![Exporting glb](assets/img/export.png)
 
-When the export process is complete, the MetaPerson Editor will close and the download will begin. The archive with the avatar will be saved to the local disk and unzipped. After that skeletal mesh of the avatar will be loaded from the glb file. Avatar will be placed in the level instead of the third person character.
+When the export process is complete, the MetaPerson Creator will close and the download will begin. The archive with the avatar will be saved to the local disk and unzipped. After that skeletal mesh of the avatar will be loaded from the glb file. Avatar will be placed in the level instead of the third person character.
 
-See more information about [animation retargeting](animation_retargeting) and  [MetaPerson editor integration](metaperson_editor_integration).
+See more information about [animation retargeting](animation_retargeting) and  [MetaPerson Creator integration](metaperson_creator_integration).

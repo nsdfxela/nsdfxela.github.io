@@ -1,21 +1,21 @@
 ---
-title: MetaPerson Editor integration
+title: MetaPerson Creator integration
 layout: home
 nav_order: 3
 ---
 
-# [](#header-1)MetaPerson Editor integration
+# [](#header-1)MetaPerson Creator integration
 
-MetaPerson Editor is a revolutionary 3D avatar builder that allows you to create your own lifelike avatar using just a selfie. Because the MetaPerson Editor supports iframe integration, connecting the MetaPerson Editor to an Unreal Engine project can be done using a standard web browser plugin.
+MetaPerson Creator is a revolutionary 3D avatar builder that allows you to create your own lifelike avatar using just a selfie. Because the MetaPerson Creator supports iframe integration, connecting the MetaPerson Creator to an Unreal Engine project can be done using a standard web browser plugin.
 
 ![WebBrowser plugin](assets/img/webbrowser.png)
 
-We created a small class `UAvatarSDKWebBrowser` that inherits from `UWebBrowser` and handles interactions of UE projects with the MetaPerson Editor. We use JavaScript code to subscribe to events and forward them to UE.
+We created a small class `UAvatarSDKWebBrowser` that inherits from `UWebBrowser` and handles interactions of UE projects with the MetaPerson Creator. We use JavaScript code to subscribe to events and forward them to UE.
 
 ```javascript
 function onWindowMessage(evt) {
     if (evt.type === 'message') {
-        if (evt.data?.source === 'metaperson_editor') {
+        if (evt.data?.source === 'metaperson_creator') {
             let data = evt.data;
             let evtName = data?.eventName;
             if (evtName === 'unity_loaded') {
@@ -39,7 +39,7 @@ function onUnityLoaded(evt, data) {
         'eventName': 'set_export_parameters',
         'format': 'glb',
         'lod': 1,
-        'textureProfile': '1K.png'
+        'textureProfile': '2K.png'
     };
     evt.source.postMessage(exportParametersMessage, '*');
 

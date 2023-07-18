@@ -8,11 +8,11 @@ nav_order: 1
 
 This project demonstrates how to create and use MetaPerson avatars with Epic animations. Please see the [Getting Started](getting_started) page if you need information on running the example.
 
-We use the new [MetaPerson Editor](https://docs.metaperson.avatarsdk.com/) integrated to level UI to create the avatar from a selfie and customize it. 
+We use the new [MetaPerson Creator](https://docs.metaperson.avatarsdk.com/) integrated to level UI to create the avatar from a selfie and customize it. 
 
-![MetaPerson editor](assets/img/editor01.png)
+![MetaPerson Creator](assets/img/editor01.png)
 
-See the [relevant part](metaperson_editor_integration) of the documentation for how MetaPerson Editor can be integrated into your Unreal Engine project.
+See the [relevant part](metaperson_creator_integration) of the documentation for how MetaPerson Creator can be integrated into your Unreal Engine project.
 
 We also use UE5 [IK Rig Retargeting](https://docs.unrealengine.com/5.0/en-US/ik-rig-animation-retargeting-in-unreal-engine/) to retarget animations (and animation blueprints) from Mannequin to MetaPerson 2 skeleton. 
 

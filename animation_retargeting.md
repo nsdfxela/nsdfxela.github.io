@@ -8,7 +8,7 @@ nav_order: 4
 
 MetaPerson 2 was originally designed using a Mixamo-compatible skeleton so that Mixamo animations can be easily used with avatars. At the same time, UE5 provides [tools](https://docs.unrealengine.com/5.0/en-US/ik-rig-animation-retargeting-in-unreal-engine/) that can be used to retarget an animation from an Epic skeleton to any other. We will not repeat the official documentation here but will focus on the assets provided with the demo project that can help retarget animations.
 
-As mentioned in documentation, retargeting with IK Rig is achieved by specifying a source and target Skeletal Mesh, which are defined by an IK Rig Asset for each of those meshes. So to retarget animations one needs : Source IKRig for Epic skeleton, Target IKRig for MetaPerson 2, IK Retargeter asset. Demo project contains all of the mentioned assets: */Game/MannequinToMetaperson2/IK_Retargeting/IK_Manny*, */AvatarSDKMetaperson2/Skeleton/Metaperson2_IK_Rig*, */Game/MannequinToMetaperson2/IK_Retargeting/IK_Retargeter_Metaperson2*. 
+As mentioned in the documentation, retargeting with IK Rig is achieved by specifying a source and target Skeletal Mesh, which are defined by an IK Rig Asset for each of those meshes. So to retarget animations one needs: Source IKRig for Epic skeleton, Target IKRig for MetaPerson 2, IK Retargeter asset. Demo project contains all of the mentioned assets: */Game/MannequinToMetaperson2/IK_Retargeting/IK_Manny*, */AvatarSDKMetaperson2/Skeleton/Metaperson2_IK_Rig*, */Game/MannequinToMetaperson2/IK_Retargeting/IK_Retargeter_Metaperson2*. 
 
 Both IK Rigs contain definitions for Retarget Chains:
 
@@ -24,7 +24,7 @@ MetaPerson IK Rig contains IK goals for leg bones to reduce the unwanted artifac
 
 Retargeter Asset (*/Game/MannequinToMetaperson2/IK_Retargeting/IK_Retargeter_Metaperson2*), according to documentation, is an asset and editor that references both source and target rigs, providing you with functionality to customize the retargeting results. 
 
-Retarget chains are mapped in Retargeter Asset based on their names. We named chains in a similar way for source and target IK Rigs, so auto mapping works fine.
+Retarget chains are mapped in Retargeter Asset based on their names. We named chains in a similar way for source and target IK Rigs, so auto-mapping works fine.
 
 ![Auto mapped chains](assets/img/retargeting03_1.png)
 
@@ -40,15 +40,15 @@ Having Retargeter Asset, one can simply retarget existing animations or animatio
 
 ![Animation BP](assets/img/retargeting06.png)
 
-Right click on the asset opens context menu where you can find the "Duplicate and Retarget Animation Blueprint" command.
+Right-click on the asset opens the context menu where you can find the "Duplicate and Retarget Animation Blueprint" command.
 
 ![Retarget menu](assets/img/retargeting07.png)
 
-In "Duplicate and Retarget Animation Blueprint" window you need to set the IK Retageter parameter:
+In the "Duplicate and Retarget Animation Blueprint" window you need to set the IK Retageter parameter:
 
 ![Duplicate and Retarget Animation Blueprint](assets/img/retargeting08.png)
 
-You also may find useful to set the naming parameters and destination folder:
+You also may find it useful to set the naming parameters and destination folder:
 
 ![Duplicate and Retarget Animation Blueprint](assets/img/retargeting09.png)
 
